@@ -1,0 +1,12 @@
+{
+  "name": "seismic-rock-acquisition-optimizer",
+  "version": "1.0.0",
+  "description": "Web application for optimizing rock acquisition from seismic activities",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": ["seismic", "earthquake", "rock", "acquisition", "optimization"],
+  "author": "keznnnzn",
+  "license": "MIT"
+}
